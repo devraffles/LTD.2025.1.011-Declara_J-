@@ -37,7 +37,7 @@ SUMÁRIO
 | <h1><a name="_346f99w4g96q"></a>**Dados do Cliente**</h1> |
 | --------------------------------------------------------- |
 
-Título do Projeto:\*\* **DeclaraJá**: Controle de Tangíveis e Mobilizáveis para Imposto de Renda
+Título do Projeto: **DeclaraJá**: Controle de Tangíveis e Mobilizáveis para Imposto de Renda
 
 Cliente: Otranto Informática & Contabilidade
 
