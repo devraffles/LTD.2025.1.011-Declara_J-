@@ -1,7 +1,6 @@
-﻿![](Aspose.Words.c3bd96b8-02c5-4a68-9e54-949e6e6636b4.001.png)![](Aspose.Words.c3bd96b8-02c5-4a68-9e54-949e6e6636b4.002.png)
+﻿![](https://github.com/devraffles/LTD.2025.1.011-Declara_Ja/blob/main/Imagens/Aspose.Words.c3bd96b8-02c5-4a68-9e54-949e6e6636b4.001.png)![](https://github.com/devraffles/LTD.2025.1.011-Declara_Ja/blob/main/Imagens/Aspose.Words.c3bd96b8-02c5-4a68-9e54-949e6e6636b4.002.png)
 
 **Documentação do Sistema**
-
 
 SUMÁRIO
 
@@ -149,23 +148,18 @@ O escopo principal deste projeto de software para simplificação da declaraçã
 - Criação da área Autenticação - Nessa área o usuário cliente pode estar escolhendo qual contador ele gostaria de estar sendo acompanhado
 
 
-
-
-
-
-
 |<h1>5. <a name="_5it1bad5ft5t"></a>**Cronograma**</h1>|
 | - |
 
-![](Aspose.Words.c3bd96b8-02c5-4a68-9e54-949e6e6636b4.003.png)
+![](https://github.com/devraffles/LTD.2025.1.011-Declara_Ja/blob/main/Imagens/Aspose.Words.c3bd96b8-02c5-4a68-9e54-949e6e6636b4.003.png)
 
-![](Aspose.Words.c3bd96b8-02c5-4a68-9e54-949e6e6636b4.004.png)
+![](https://github.com/devraffles/LTD.2025.1.011-Declara_Ja/blob/main/Imagens/Aspose.Words.c3bd96b8-02c5-4a68-9e54-949e6e6636b4.004.png)
 
-![](Aspose.Words.c3bd96b8-02c5-4a68-9e54-949e6e6636b4.005.png)
+![](https://github.com/devraffles/LTD.2025.1.011-Declara_Ja/blob/main/Imagens/Aspose.Words.c3bd96b8-02c5-4a68-9e54-949e6e6636b4.005.png)
 
-![](Aspose.Words.c3bd96b8-02c5-4a68-9e54-949e6e6636b4.006.png)
+![](https://github.com/devraffles/LTD.2025.1.011-Declara_Ja/blob/main/Imagens/Aspose.Words.c3bd96b8-02c5-4a68-9e54-949e6e6636b4.006.png)
 
-![](Aspose.Words.c3bd96b8-02c5-4a68-9e54-949e6e6636b4.007.png)
+![](https://github.com/devraffles/LTD.2025.1.011-Declara_Ja/blob/main/Imagens/Aspose.Words.c3bd96b8-02c5-4a68-9e54-949e6e6636b4.007.png)
 
 
 
@@ -175,9 +169,9 @@ O escopo principal deste projeto de software para simplificação da declaraçã
 
 1. **Modelagem do sistema**: 
 
-   ![](Aspose.Words.c3bd96b8-02c5-4a68-9e54-949e6e6636b4.008.png)
+   ![](https://github.com/devraffles/LTD.2025.1.011-Declara_Ja/blob/main/Imagens/Aspose.Words.c3bd96b8-02c5-4a68-9e54-949e6e6636b4.008.png)
 
-   ![](Aspose.Words.c3bd96b8-02c5-4a68-9e54-949e6e6636b4.009.png)
+   ![](https://github.com/devraffles/LTD.2025.1.011-Declara_Ja/blob/main/Imagens/Aspose.Words.c3bd96b8-02c5-4a68-9e54-949e6e6636b4.009.png)
 
 1. **Tecnologias utilizadas**: 
 
@@ -204,7 +198,7 @@ O **fluxo das informações** ocorre da seguinte forma:
 
 Uma Imagem para melhor entendimento:
 
-![](Aspose.Words.c3bd96b8-02c5-4a68-9e54-949e6e6636b4.010.png)
+![](https://github.com/devraffles/LTD.2025.1.011-Declara_Ja/blob/main/Imagens/Aspose.Words.c3bd96b8-02c5-4a68-9e54-949e6e6636b4.010.png)
 
 
 
@@ -213,63 +207,63 @@ Uma Imagem para melhor entendimento:
 
 1. **Protótipo**: 
 
-![](Aspose.Words.c3bd96b8-02c5-4a68-9e54-949e6e6636b4.011.png)
+![](https://github.com/devraffles/LTD.2025.1.011-Declara_Ja/blob/main/Imagens/Aspose.Words.c3bd96b8-02c5-4a68-9e54-949e6e6636b4.011.png)
 ### <a name="_eycot719a6cd"></a>**Como você deseja acessar o Declara Já?**
 ### <a name="_uvbstdyaj7oy"></a>Esta é a tela de entrada do sistema, projetada para guiar o usuário ao ambiente adequado com base em seu perfil. Ela permite que o usuário escolha entre as opções de acesso "Cliente" ou "Contador", direcionando-o para a jornada específica de sua função no sistema.
 
 
-![](Aspose.Words.c3bd96b8-02c5-4a68-9e54-949e6e6636b4.012.png)
+![](https://github.com/devraffles/LTD.2025.1.011-Declara_Ja/blob/main/Imagens/Aspose.Words.c3bd96b8-02c5-4a68-9e54-949e6e6636b4.012.png)
 ### <a name="_qc6iy7551xxi"></a>**Cliente - Tela de Login**
 A tela de login permite o acesso do usuário ao sistema por meio do preenchimento dos campos de **e-mail** e **senha**. Ao clicar no botão **"Entrar"**, o sistema valida as credenciais informadas e, se corretas, redireciona o usuário para a área principal do sistema. Abaixo do formulário, há a opção **"Cadastre-se"**, destinada a novos usuários, e o link **"Esqueci minha senha"**, que direciona para o processo de recuperação de senha. A interface possui um design limpo e intuitivo, facilitando a navegação.
 
-![](Aspose.Words.c3bd96b8-02c5-4a68-9e54-949e6e6636b4.013.png)
+![](https://github.com/devraffles/LTD.2025.1.011-Declara_Ja/blob/main/Imagens/Aspose.Words.c3bd96b8-02c5-4a68-9e54-949e6e6636b4.013.png)
 ### <a name="_6t7prudi6a7d"></a>**Cliente - Tela de Cadastro**
 A tela de cadastro permite que novos usuários criem uma conta no sistema. Nela, o usuário deve preencher os campos de **nome**, **e-mail**, **senha** e **confirmação de senha**. Ao clicar no botão **"Criar"**, o sistema verifica se todos os dados foram inseridos corretamente e, em caso positivo, realiza o cadastro e redireciona o usuário para a área de login. A interface também conta com um link de retorno para a tela de login, garantindo uma navegação fluida e intuitiva.
 
 
 
-![](Aspose.Words.c3bd96b8-02c5-4a68-9e54-949e6e6636b4.014.png)
+![](https://github.com/devraffles/LTD.2025.1.011-Declara_Ja/blob/main/Imagens/Aspose.Words.c3bd96b8-02c5-4a68-9e54-949e6e6636b4.014.png)
 ### <a name="_wel07qaekiy7"></a>**Cliente - Tela de Lista de Bens (vazia)**
 Esta tela é exibida quando o cliente acessa o sistema, mas ainda não possui nenhum item cadastrado. A interface exibe uma mensagem informativa: **“Você não possui nenhum item...”**, acompanhada de um botão destacado **“+ Novo Item”**. Ao clicar nesse botão, o usuário é direcionado para o formulário de criação de novos bens. A tela oferece uma navegação simples e direta, incentivando o usuário a começar o uso do sistema de forma prática.
-### ![](Aspose.Words.c3bd96b8-02c5-4a68-9e54-949e6e6636b4.015.png)
+### ![](https://github.com/devraffles/LTD.2025.1.011-Declara_Ja/blob/main/Imagens/Aspose.Words.c3bd96b8-02c5-4a68-9e54-949e6e6636b4.015.png)
 ### <a name="_psuw0byon2ah"></a><a name="_k37jxjbl9kz8"></a>**Cliente - Tela de Lista de Bens e Direitos**
 A interface apresentada é a tela de listagem de bens e direitos cadastrados pelo cliente. No topo da tela, há uma barra de pesquisa que permite ao usuário filtrar rapidamente os itens cadastrados digitando parte do nome do bem ou direito. Abaixo da barra, os bens cadastrados são exibidos em uma lista interativa, onde cada item mostra o nome do bem ou direito em destaque, seguido por uma breve descrição. Cada item da lista possui botões de "Editar" e "Deletar", permitindo ao usuário modificar ou excluir o bem correspondente. Os itens podem ser expandidos ou recolhidos para uma visualização mais organizada.
 
 No canto inferior direito da tela, há um botão destacado com o ícone de "+" e a frase "Crie Já", que permite ao cliente cadastrar um novo bem ou direito. A interface mantém uma paleta de cores suaves, com predominância de tons de verde e elementos arredondados, seguindo o padrão visual das outras telas do sistema e proporcionando uma experiência agradável e moderna ao usuário.
 
-![](Aspose.Words.c3bd96b8-02c5-4a68-9e54-949e6e6636b4.016.png)
+![](https://github.com/devraffles/LTD.2025.1.011-Declara_Ja/blob/main/Imagens/Aspose.Words.c3bd96b8-02c5-4a68-9e54-949e6e6636b4.016.png)
 ### <a name="_frv7ojo2sy1t"></a>**Cliente - Tela de Exclusão de Bem (Confirmação)**
 Quando o usuário opta por excluir um bem, a interface centraliza o item selecionado e desfoca os demais elementos da tela, direcionando a atenção para a ação crítica. O cartão do bem exibe novamente seu nome e descrição, e apresenta um botão “Confirmar Deleção” em destaque vermelho. Um ícone de “fechar” no canto superior direito permite ao usuário cancelar a operação. Essa tela garante clareza e segurança, evitando exclusões acidentais.
 
-![](Aspose.Words.c3bd96b8-02c5-4a68-9e54-949e6e6636b4.017.png)
+![](https://github.com/devraffles/LTD.2025.1.011-Declara_Ja/blob/main/Imagens/Aspose.Words.c3bd96b8-02c5-4a68-9e54-949e6e6636b4.017.png)
 ### <a name="_iz2rcgrlshs"></a>**Cliente - Escolha seu Formulário**
 Esta tela serve como o ponto de decisão inicial para o usuário que deseja cadastrar um novo bem ou informação. Ela apresenta de forma clara e organizada as diversas categorias de ativos e dados pessoais, permitindo que o cliente selecione o tipo de formulário adequado para o seu registro.
 
-![](Aspose.Words.c3bd96b8-02c5-4a68-9e54-949e6e6636b4.018.png)
+![](https://github.com/devraffles/LTD.2025.1.011-Declara_Ja/blob/main/Imagens/Aspose.Words.c3bd96b8-02c5-4a68-9e54-949e6e6636b4.018.png)
 ### <a name="_c1tykuxyidfh"></a>**Cliente - Formulário**
 Esta tela tem como objetivo permitir que o usuário insira todas as informações detalhadas. Ela é projetada para coletar dados essenciais como nome, tipo, finalidade, data e valor de aquisição, e forma de aquisição, e upar um anexo se necessário  preparando o registro do bem para ser submetido e analisado pelo sistema.
 
-![](Aspose.Words.c3bd96b8-02c5-4a68-9e54-949e6e6636b4.019.png)
+![](https://github.com/devraffles/LTD.2025.1.011-Declara_Ja/blob/main/Imagens/Aspose.Words.c3bd96b8-02c5-4a68-9e54-949e6e6636b4.019.png)
 ### <a name="_93i604n7f0l9"></a>**Cliente - Editar Item**
 Esta tela permite ao usuário modificar as informações previamente cadastradas de um item específico no sistema. É o ambiente onde o usuário pode atualizar detalhes existentes, corrigir dados ou complementar informações pendentes, assegurando que os registros permaneçam atualizados e precisos.
 
-![](Aspose.Words.c3bd96b8-02c5-4a68-9e54-949e6e6636b4.020.png)
+![](https://github.com/devraffles/LTD.2025.1.011-Declara_Ja/blob/main/Imagens/Aspose.Words.c3bd96b8-02c5-4a68-9e54-949e6e6636b4.020.png)
 ### <a name="_h7e17080qpqs"></a>**Cliente - Análise Financeira (Detalhes do Item)**
 Esta tela oferece uma visão analítica aprofundada de um item específico, exibindo dados financeiros como seu valor atual, histórico de valorização e desvalorização. Adicionalmente, apresenta informações descritivas relevantes e datas importantes associadas ao item, fornecendo ao usuário um panorama completo para acompanhamento e suporte à decisão.
 
-![](Aspose.Words.c3bd96b8-02c5-4a68-9e54-949e6e6636b4.021.png)
+![](https://github.com/devraffles/LTD.2025.1.011-Declara_Ja/blob/main/Imagens/Aspose.Words.c3bd96b8-02c5-4a68-9e54-949e6e6636b4.021.png)
 ### <a name="_mtqlm9hjx2i4"></a>**Contador - Clientes (Vazia)**
 Esta tela é o painel de gerenciamento de clientes para o Contador. Quando acessada e não há clientes associados ou solicitações pendentes, ela informa ao contador o status atual, orientando-o a aguardar por novas conexões ou verificar notificações.
 
-![](Aspose.Words.c3bd96b8-02c5-4a68-9e54-949e6e6636b4.022.png)
+![](https://github.com/devraffles/LTD.2025.1.011-Declara_Ja/blob/main/Imagens/Aspose.Words.c3bd96b8-02c5-4a68-9e54-949e6e6636b4.022.png)
 ### <a name="_n7jvi23idstu"></a>**Contador - Clientes (Com Lista)**
 Esta tela serve como o painel principal para o contador visualizar e gerenciar sua carteira de clientes. Ela exibe uma lista de todos os clientes associados, permitindo ao contador buscar por um cliente específico e acessar seus detalhes individuais, incluindo a visualização dos bens cadastrados.
 
-![](Aspose.Words.c3bd96b8-02c5-4a68-9e54-949e6e6636b4.023.png)
+![](https://github.com/devraffles/LTD.2025.1.011-Declara_Ja/blob/main/Imagens/Aspose.Words.c3bd96b8-02c5-4a68-9e54-949e6e6636b4.023.png)
 ### <a name="_ed5pmy2j2rbw"></a>**Contador - Clientes ( Pesquisa)**
 Esta tela mantém a função de painel de gerenciamento de clientes para o contador, mas com foco na funcionalidade de busca. Ela permite que o contador localize rapidamente um cliente específico dentro de sua lista, filtrando os resultados em tempo real à medida que o texto é digitado na barra de pesquisa.
 
-![](Aspose.Words.c3bd96b8-02c5-4a68-9e54-949e6e6636b4.024.jpeg)
+![](https://github.com/devraffles/LTD.2025.1.011-Declara_Ja/blob/main/Imagens/Aspose.Words.c3bd96b8-02c5-4a68-9e54-949e6e6636b4.024.jpeg)
 ### <a name="_ollsoaylfddo"></a>**Contador - Perfil do Cliente (Listagem de Bens)**
 Esta tela exibe o perfil detalhado de um cliente específico, mostrando uma lista dos seus bens cadastrados. Para cada bem, há uma opção que permite ao contador visualizar uma breve descrição ou detalhes adicionais.
 
@@ -278,7 +272,7 @@ Esta tela exibe o perfil detalhado de um cliente específico, mostrando uma list
 
 
 
-![](Aspose.Words.c3bd96b8-02c5-4a68-9e54-949e6e6636b4.025.jpeg)
+![](https://github.com/devraffles/LTD.2025.1.011-Declara_Ja/blob/main/Imagens/Aspose.Words.c3bd96b8-02c5-4a68-9e54-949e6e6636b4.025.jpeg)
 ### <a name="_bxght9o8fqzz"></a>**Contador - Perfil do Cliente (Geração de PDF)**
 Esta tela, que faz parte do perfil detalhado de um cliente, permite ao contador gerar um documento PDF consolidado com as informações dos bens e direitos do cliente. É uma funcionalidade essencial para exportar dados para fins de declaração, relatórios ou arquivamentos.
 
@@ -308,14 +302,14 @@ Após as entregas parciais, realizadas de acordo com os requisitos do sistema  e
 
 1. **Linkedin do Projeto**
 
-|![](Aspose.Words.c3bd96b8-02c5-4a68-9e54-949e6e6636b4.026.png)|www.linkedin.com/in/declara-já|
+|![](https://github.com/devraffles/LTD.2025.1.011-Declara_Ja/blob/main/Imagens/Aspose.Words.c3bd96b8-02c5-4a68-9e54-949e6e6636b4.026.png)|www.linkedin.com/in/declara-já|
 | :- | :-: |
 
 1. **Seminário de Projetos de Software**
 
    **Vídeo da apresentação:** [Link do video](https://pt.linkedin.com/posts/declara-j%C3%A1_v%C3%ADdeo-demonstrativo-da-apresenta%C3%A7%C3%A3o-do-projeto-activity-7331506940734320640-do2-?utm_source=li_share&utm_content=feedcontent&utm_medium=g_dt_web&utm_campaign=copy)
 
-|![](Aspose.Words.c3bd96b8-02c5-4a68-9e54-949e6e6636b4.027.jpeg)|![](Aspose.Words.c3bd96b8-02c5-4a68-9e54-949e6e6636b4.028.jpeg)|
+|![](https://github.com/devraffles/LTD.2025.1.011-Declara_Ja/blob/main/Imagens/Aspose.Words.c3bd96b8-02c5-4a68-9e54-949e6e6636b4.027.jpeg)|![](https://github.com/devraffles/LTD.2025.1.011-Declara_Ja/blob/main/Imagens/Aspose.Words.c3bd96b8-02c5-4a68-9e54-949e6e6636b4.028.jpeg)|
 | :-: | :-: |
 |Está duas pessoas auxiliando no slide, no meio o slide falando o problema que nosso cliente enfrenta e por fim um dos integrantes explicando melhor|Kauã Hipólito Rodrigues|
 
@@ -357,9 +351,9 @@ Segue abaixo a lista de presentes na apresentação.
 
 |<h1>11. <a name="_wrbwytkjn1tk"></a>**Carta de Apresentação**</h1>|
 | - |
-![](Aspose.Words.c3bd96b8-02c5-4a68-9e54-949e6e6636b4.029.png)
+![](https://github.com/devraffles/LTD.2025.1.011-Declara_Ja/blob/main/Imagens/Aspose.Words.c3bd96b8-02c5-4a68-9e54-949e6e6636b4.029.png)
 
-![](Aspose.Words.c3bd96b8-02c5-4a68-9e54-949e6e6636b4.030.png)
+![](https://github.com/devraffles/LTD.2025.1.011-Declara_Ja/blob/main/Imagens/Aspose.Words.c3bd96b8-02c5-4a68-9e54-949e6e6636b4.030.png)
 
 
 
@@ -367,7 +361,7 @@ Segue abaixo a lista de presentes na apresentação.
 |<h1>12. <a name="_l49b37ibdzv3"></a>**Carta de Autorização**</h1>|
 | - |
 
-![](Aspose.Words.c3bd96b8-02c5-4a68-9e54-949e6e6636b4.031.png)
+![](https://github.com/devraffles/LTD.2025.1.011-Declara_Ja/blob/main/Imagens/Aspose.Words.c3bd96b8-02c5-4a68-9e54-949e6e6636b4.031.png)
 
 |<h1>13. <a name="_jo22ads71pg0"></a>**Relato individual do processo**</h1>|
 | - |
