@@ -311,7 +311,7 @@ Após as entregas parciais, realizadas de acordo com os requisitos do sistema  e
 
 |![](https://github.com/devraffles/LTD.2025.1.011-Declara_Ja/blob/main/Imagens/Aspose.Words.c3bd96b8-02c5-4a68-9e54-949e6e6636b4.027.jpeg)|![](https://github.com/devraffles/LTD.2025.1.011-Declara_Ja/blob/main/Imagens/Aspose.Words.c3bd96b8-02c5-4a68-9e54-949e6e6636b4.028.jpeg)|
 | :-: | :-: |
-|Temos duas pessoas au lado, auxiliando na apresentação de um slide, no meio o slide trazendo o problema que nosso cliente enfrenta e por fim a direita, um dos integrantes descrevendo a situação|Kauã Hipólito Rodrigues|
+|Temos dois integrantes da equipe a esquerda, auxiliando na apresentação do slide, no meio o slide em si apresentando o problema que nosso cliente enfrenta e por fim a direita, um dos integrantes descrevendo a situação|Kauã Hipólito Rodrigues|
 
 
 
